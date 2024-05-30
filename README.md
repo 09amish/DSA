@@ -53,5 +53,9 @@ Data Structures and Algorithms (DSA) form the foundation of computer science. Ma
 | 12    | Rotate Array                                     | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/list-basic-python/problem/rotate-array-by-n-elements-1587115621)           | Medium           |    [Link](https://github.com/09amish/DSA/blob/Lists/lprob12.py)     |
 
 ### Hashing Problems
+| Array | Problem                                          | Link                                                                                                                                              | Difficulty Level | Solution                                                            |
+| ----- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------    |
+| 1     | Hashing for pair 1                               | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/hashing-basic-python/problem/hashing-for-pair-1)                           | Easy            |    [Link     |
+| 2     | Hashing for pair 2                               | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/hashing-basic-python/problem/hashing-for-pair-2)                           | Easy            |    [Link
 
 ## Acknowledgements
