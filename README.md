@@ -56,6 +56,6 @@ Data Structures and Algorithms (DSA) form the foundation of computer science. Ma
 | Array | Problem                                          | Link                                                                                                                                              | Difficulty Level | Solution                                                            |
 | ----- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------------------------------------------------------    |
 | 1     | Hashing for pair 1                               | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/hashing-basic-python/problem/hashing-for-pair-1)                           | Easy            |    [Link](https://github.com/09amish/DSA/blob/Hashing/hprob1.py)     |
-| 2     | Hashing for pair 2                               | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/hashing-basic-python/problem/hashing-for-pair-2)                           | Easy            |    [Link]
+| 2     | Hashing for pair 2                               | [Link](https://www.geeksforgeeks.org/batch/dsa-python-self-paced/track/hashing-basic-python/problem/hashing-for-pair-2)                           | Easy            |    [Link](https://github.com/09amish/DSA/blob/Hashing/hprob2.py)
 
 ## Acknowledgements
