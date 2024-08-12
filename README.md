@@ -20,7 +20,7 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝....
 ```
-# Data Structures and Algorithms (DSA) Problems with Python
+# Data Structures and Algorithms (DSA) Problems
 
 Welcome to the DSA Problems repository! This repository contains a collection of data structures and algorithms problems along with their solutions. It is designed to help you practice and improve your DSA skills.
 
